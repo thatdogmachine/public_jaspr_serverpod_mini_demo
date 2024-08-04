@@ -68,8 +68,6 @@ The world is your oyster. Season to taste...
 
 These instructions can be ignored, but are left here for completeness. Since this is Serverpod __mini__ the `docker` commands make no sense - we are using the __web server__ for the __Jaspr__ integration demo, and have the __api server__ available for extension of the demonstration.
 
-rsync -av --exclude='.git' ../jaspr_serverpod_mini_demo_server .
-
 This is the starting point for your Serverpod server.
 
 To run your server, you first need to start Postgres and Redis. It's easiest to do with Docker.

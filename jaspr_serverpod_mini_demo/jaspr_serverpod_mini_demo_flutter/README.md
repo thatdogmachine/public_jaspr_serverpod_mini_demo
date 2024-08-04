@@ -1,5 +1,11 @@
 # jaspr_serverpod_mini_demo_flutter
 
+
+No changes are currently implemented here
+
+## Serverpod auto generated readme contents
+
+
 A new Flutter project with Serverpod.
 
 ## Getting Started
