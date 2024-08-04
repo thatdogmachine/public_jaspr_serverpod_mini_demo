@@ -1,0 +1,10 @@
+apiServer:
+  port: 8280
+  publicHost: localhost
+  publicPort: 8280
+  publicScheme: http
+webServer:
+  port: 8282
+  publicHost: localhost
+  publicPort: 8282
+  publicScheme: http
